@@ -2,11 +2,12 @@
 ![Banner de ZaxWerPro](Perfil.png)
 
 
+💻 Technologies I Love 😄⚡
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Sentry](https://img.shields.io/badge/gustavoavila1331@gmail.com-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 
-
-
-
+   
 
 <!--
 **ZaxWerkPro/ZaxWerkPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
