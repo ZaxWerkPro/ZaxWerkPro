@@ -3,7 +3,7 @@
 
 
 ## 💻 Technologies I Love 😄⚡
-
+Development allows me to create digital environments in such a way that the design complements it, thus generating dynamism and creativity.
 
 
 
